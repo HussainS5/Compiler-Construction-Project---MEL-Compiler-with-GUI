@@ -50,6 +50,11 @@ The project includes a full graphical interface where you can:
 
 ---
 
+## 🖼️ GUI Output Preview
+
+![MEL Compiler GUI](Output_UI.png)
+
+---
 ## 📌 Example MEL Program
 
 ```
@@ -91,7 +96,8 @@ No external dependencies other than Python's standard library.
 
 ```
 MELCompiler.py        # Full compiler + GUI
-README.md         # Documentation
+Output_UI.png        #Ouput of the program
+README.md            # Documentation
 ```
 
 ---
